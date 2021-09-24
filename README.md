@@ -22,8 +22,6 @@
 
 ### App Walkthough GIF
 
-
-https://github.com/ChloeZhang1/FlixsterPart2/blob/main/Fix2WalkThrough.gif
 <img src="https://github.com/ChloeZhang1/FlixsterPart2/blob/main/Fix2WalkThrough.gif" width=250><br>
 
 ### Notes
